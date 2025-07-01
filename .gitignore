@@ -20,5 +20,6 @@ build/
 Thumbs.db
 
 # Flask environment variable
+.env
 
-model.h5
+#model.h5
